@@ -1,0 +1,8 @@
+{
+  "name": "figma-inline",
+  "id": "1040999062725178489",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": ["figma"],
+  "ui": "index.html"
+}
